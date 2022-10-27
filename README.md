@@ -5,9 +5,9 @@
 - Fullstack student
 
 <div align="center">
-  <a href="https://github.com/yjoaoneto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjoaoneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjoaoneto&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/httplucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httplucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
