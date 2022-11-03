@@ -2,7 +2,7 @@
 
 - Atualmente estou no segundo período de Ciência da Computação 
 - Estagiario do Hospital Napoleão Laureano
-- Fullstack student
+- Software Developer
 
 <div align="center">
   <a href="https://github.com/httplucas">
