@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas!
 
-- Atualmente estou no segundo período de Ciência da Computação 
+- Atualmente estou no terceiro período de Ciência da Computação 
 - Estagiario do Hospital Napoleão Laureano
 - Software Developer
 
