@@ -13,7 +13,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplucas&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
-<img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=httplucas&show_icons=true&custom_title=httplucas's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=httplucas&show_icons=true&custom_title=httplucas 's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=httplucas&theme=tokyonight&hide_border=true">
  </details>
  
