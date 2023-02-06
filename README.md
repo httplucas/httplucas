@@ -59,6 +59,7 @@
    
  ---
  
-  ![Snake animation](https://github.com/httplucas/httplucas/blob/output/github-commit-grid-snake.svg)
+ ![Snake animation](https://github.com/httplucas/httplucas/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
