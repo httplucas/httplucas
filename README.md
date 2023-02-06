@@ -6,7 +6,7 @@
 
 <h1 align="center">
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Reniwtz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">    
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=httplucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">    
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplucas&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
