@@ -1,9 +1,9 @@
-## Olá, Eu sou Lucas Rodrigues, Estudando Ciência da Computação(P6) pelo Centro Universitario de João Pessoa - UNIPÊ
+## Olá, Eu sou Lucas Rodrigues, Estudando Ciência da Computação (P6) pelo Centro Universitario de João Pessoa - UNIPÊ
 
-- 🔭 Programador backend Python.
-- 🌱 Atualmente trabalho desenvolvendo programas e automatizando TUDO com Python
-- 💬 Faça-me uma Pergunta
-- 😄 Pronome: Ele
+- 🔭 Programador Backend.
+- 🌱 Atualmente trabalho desenvolvendo programas e automatizando TUDO com Python.
+- 💬 Faça-me uma Pergunta.
+- 😄 Pronome: Ele/Dele
 
 ---
 
@@ -59,7 +59,7 @@
    
  ---
  
- ![Snake animation](https://github.com/httplucas/httplucas/blob/output/github-contribution-grid-snake.svg)
+
  
  
 </div>
