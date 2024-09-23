@@ -1,7 +1,7 @@
-## Olá, Eu sou Lucas Rodrigues, Estudando Ciência da Computação(P3) pelo Centro Universitario de João Pessoa - UNIPÊ
+## Olá, Eu sou Lucas Rodrigues, Estudando Ciência da Computação(P6) pelo Centro Universitario de João Pessoa - UNIPÊ
 
-- 🔭 Estou Trabalhando no Hospital Napoleão Laureano.
-- 🌱 No Momento Estou Aprendendo CSS, HTML, JavaScript e Python
+- 🔭 Programador backend Python.
+- 🌱 Atualmente trabalho desenvolvendo programas e automatizando TUDO com Python
 - 💬 Faça-me uma Pergunta
 - 😄 Pronome: Ele
 
